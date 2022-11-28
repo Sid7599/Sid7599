@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mr. Sidharth Kumar Das
 - 👀 I’m interested in GADGETS
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning DATASCIENCE
 - 💞️ I’m looking to collaborate on INSTAGRAM & YOUTUBE
 - 📫 How to reach me :- WHATSAPP : +91-6370943894
 
